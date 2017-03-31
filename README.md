@@ -23,7 +23,7 @@ Your learning journey unfolds:
 Go well, ngā mihi...
 
 <figure>
-  <img src="http://nzbirdsonline.org.nz/sites/all/files/1200472DSC_0463.JPG" alt="kea"><br>
+  <img src="./kea.JPG" alt="kea"><br>
   <figcaption>
     <p>A gorgeous kea, nzbirdsonline.org.nz</p>
   </figcaption>
