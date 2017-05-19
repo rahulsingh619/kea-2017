@@ -1,3 +1,5 @@
+
+
 What did I do well this week?
 
 This week I was able to focus a little better when I had the time.  Time was not really available most of the week so I had to do 8 hour to 12 hour days to catch up.  That being said I was pleased that I at least got the work done even though it was late.
