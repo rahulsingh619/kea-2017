@@ -1,3 +1,4 @@
+
 Why is reflection important?
 Is important because we need to know what we are doing, why we are doing it
 and if we are doing it correctly. So we have to stop and think then we can go
@@ -10,4 +11,4 @@ ahead and make things with a clear and healthy brain.
 
  What could I have done to improve?
  I could have use more time in my studies and finished everything already, but I
- had a few unexpected things going on and it took my time away. 
+ had a few unexpected things going on and it took my time away.
