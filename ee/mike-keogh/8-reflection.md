@@ -1,0 +1,1 @@
+This week I was able I felt to put to use, the skills we have learned over the course of phase 0. It was rewarding to encounter a problem or step and to know what i had to do, as opposed previously to having to look for where to start. I was not very good at tracking my time this week, and when i finished my work I had a hard time being able to focus on revision. 
